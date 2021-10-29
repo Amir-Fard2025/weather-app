@@ -21,9 +21,14 @@ In this project we practiced the following steps.
 - define async functions inside async js file to make the operation of fetching the data asynchronous
 - get the parsed name of the searched city from the local storage and put it in an array and then set the local storage with the id of the current city and its stringified name
 - define event listener for each searched city to make them loadable again by clicking
+
 # <List of Screenshots>
+
 [./assets/screenshots/APIKey.png]
 [./assets/screenshots/Localstorage.png]
 [./assets/screenshots/Structure.png]
 
 # <List of the Links>
+
+[https://github.com/Amir-Fard2025/06-homework]
+[https://amir-fard2025.github.io/06-homework/]
